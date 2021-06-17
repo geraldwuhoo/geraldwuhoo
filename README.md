@@ -2,7 +2,7 @@
 
 Computer Science (B.S.) and Applied Math (B.A.) from Brown University '21. All repos are mirrors of [my selfhosted GitLab instance](https://git.geraldwu.com/gerald).
 
-I am proficient in C, GoLang, and Python. I am also proficient in Java, but very much do not like it.
+I am proficient in C, GoLang, and Python. I am also (unfortunately) proficient in Java.
 
 I dislike modern web ~~bloat~~ dev.  
 [Modern webdev is a disease.](https://blog.geraldwu.com/a-new-website)  
