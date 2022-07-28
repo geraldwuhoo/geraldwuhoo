@@ -1,6 +1,6 @@
 # About
 
-All repos are mirrors of [my selfhosted GitLab instance](https://git.geraldwu.com/gerald).
+All repos are mirrors of [my selfhosted GitLab instance](https://gitlab.wuhoo.xyz/jerry).
 
 I am proficient in C, GoLang, Python, and (unfortunately) Java.  
 Modern C (post-C99) > C++. Fight me.
