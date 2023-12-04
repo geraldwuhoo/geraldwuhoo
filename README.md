@@ -2,6 +2,5 @@
 
 All repos are mirrors of [my selfhosted GitLab instance](https://gitlab.wuhoo.xyz/jerry).
 
-I am proficient in C, C++, GoLang, Python, and (unfortunately) Java.  
-Modern C (post-C99) > C++.
+[Cease your desire to use JavaScript](https://blog.geraldwu.com/posts/a-new-website/).
 
